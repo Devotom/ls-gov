@@ -1,4 +1,4 @@
-- name: Discord Message Notify
+ name: Discord Message Notify
   # You may pin to the exact commit or the version.
   # uses: appleboy/discord-action@4c196125180125310ac20c72034757bb71020383
   uses: appleboy/discord-action@0.0.3

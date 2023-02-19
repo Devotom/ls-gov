@@ -23,6 +23,6 @@
 </p>
 
 <h2> Description of the project and the selected institution</h2>
-<p> align="left">
+<p align="left">
   
 </p>

@@ -1,0 +1,23 @@
+- name: Discord Message Notify
+  # You may pin to the exact commit or the version.
+  # uses: appleboy/discord-action@4c196125180125310ac20c72034757bb71020383
+  uses: appleboy/discord-action@0.0.3
+  with:
+    # discord webhook id
+    webhook_id: 1076787044279390208
+    # discord webhook token
+    webhook_token: lGeUbxVwgiqlp3XdYi_s3wpSlnTYLJheLZKKejCj48n9DFEyYcVq5aW8SV5a_e6RNHYo
+    # the message contents (up to 2000 characters)
+    message: test
+    # the contents of the file being sent
+    file: # optional
+    # color code of the embed
+    color: # optional
+    # waits for server confirmation of message send before response, and returns the created message body
+    wait: # optional
+    # true if this is a TTS message
+    tts: # optional
+    # override the default username of the webhook
+    username: # DEVOTOM SUPPORT
+    # override the default avatar of the webhook
+    avatar_url: # optional
